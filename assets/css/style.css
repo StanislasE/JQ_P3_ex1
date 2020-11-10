@@ -1,0 +1,11 @@
+#container{
+    text-align: center;
+    padding-top: 100px;
+}
+#text{
+    padding: 20px;
+}
+#response{
+    border: solid 1px #000000;
+    height: 40px;
+}
